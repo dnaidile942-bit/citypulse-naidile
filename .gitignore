@@ -1,0 +1,31 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite3
