@@ -1,0 +1,17 @@
+WSL2
+Ubuntu
+Visual Studio Code
+WSL Extension (Microsoft)
+Git
+curl
+wget
+vim
+nano
+htop
+traceroute
+dnsutils
+net-tools
+lsof
+zip
+unzip
+tree
